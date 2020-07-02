@@ -1,0 +1,11 @@
+{
+  "name": "NetSharing",
+  "version": "1.3",
+  "slug": "netshare",
+  "description": "Homebrew addon to share wifi over ethernet",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "advanced": true,
+  "startup": "system",
+  "boot": "auto",
+  "image": "themessen9er/{arch}-addon-hass-netshare"
+}
